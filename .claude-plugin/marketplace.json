@@ -1,0 +1,29 @@
+{
+  "name": "formularios-familia-y-divorcio",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Familia: separación, divorcio y medidas · España (236 formularios). Para las crisis matrimoniales: separación y divorcio de mutuo acuerdo o contencioso, nulidad matrimonial, convenio regulador, medidas provisionales y definitivas y su modificación, pensión compensatoria, uso de la vivienda familiar y su ejecución, con especialidades forales. Los asuntos de los hijos y la economía familiar tienen sus propios plugins. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-familia-y-divorcio",
+      "source": "./",
+      "description": "Familia: separación, divorcio y medidas · España (236 formularios). Para las crisis matrimoniales: separación y divorcio de mutuo acuerdo o contencioso, nulidad matrimonial, convenio regulador, medidas provisionales y definitivas y su modificación, pensión compensatoria, uso de la vivienda familiar y su ejecución, con especialidades forales. Los asuntos de los hijos y la economía familiar tienen sus propios plugins. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "civil",
+        "familia"
+      ]
+    }
+  ]
+}
